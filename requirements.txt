@@ -1,0 +1,6 @@
+numpy
+moviepy
+requests
+Pillow
+opencv-python
+matplotlib

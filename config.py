@@ -1,0 +1,22 @@
+# source_video='input/SampleVideo.mp4'
+# frames_output_dir='output/sample_frames'
+# FRAMES_PATH_BASE='output/sample_frames/{}.jpeg'
+# audio_output_dir='output/sample_audio'
+# audio_output_name='sample.wav'
+# save_detect_dir='output/sample_detected_file'
+# DETECT_OBJ='flowers/stone.jpg'
+# SHOW_MATCHES=False
+# DETECTED_VDO_DIR='output/detected_sample/'
+# DETECTED_VDO_NAME='sample.mp4'
+
+source_video='input/20180109-1-053700053162-506-1354-201801090000000563-2.mp4'
+frames_output_dir='output/video_file'
+FRAMES_PATH_BASE='output/video_file/{}.jpeg'
+audio_output_dir='output/audio_file'
+audio_output_name='audio.wav'
+save_detect_dir='output/logo_detected_file'
+DETECTED_PATH_BASE='output/logo_detected_file/{}.jpeg'
+DETECT_OBJ='flowers/gflogo.jpg'
+SHOW_MATCHES=False
+DETECTED_VDO_DIR='output/detected_video/'
+DETECTED_VDO_NAME='video.mp4'
